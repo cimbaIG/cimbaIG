@@ -1,2 +1,3 @@
-# CSharp
-Learning more about C# and .NET
+# Python and C#
+
+Learning more about Python and C#.
